@@ -18,7 +18,7 @@ import java.util.TreeMap;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import com.nbf.component.aliyun.sdk.sign.constants.SignHttpHeaderConstants;
 import com.nbf.component.aliyun.sdk.sign.constants.SignSymbolConstants;
